@@ -1,0 +1,27 @@
+# Entornos virtuales (todas las variantes comunes)
+.venv/
+venv/
+ENV/
+env/
+
+# Python: Archivos compilados y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secretos y Configuración (¡CORREGIDO!)
+.env
+.env.local
+
+# Logs (de sistema y de tu ETL)
+*.log
+etl_escalas.log
+historial_mutaciones.log
+a
+# Archivos de datos (para que no se suban los .xlsx de la imagen)
+*.xlsx
+*.csv
+*.xls
+
+# Archivos de sistema
+.DS_Store
