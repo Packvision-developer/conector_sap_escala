@@ -24,3 +24,9 @@ historial_mutaciones.log
 
 # Archivos de sistema
 .DS_Store
+
+*back*
+*copy*
+*backup*
+*bck*
+*.json
