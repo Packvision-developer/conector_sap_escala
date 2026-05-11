@@ -17,7 +17,6 @@ __pycache__/
 *.log
 etl_escalas.log
 historial_mutaciones.log
-a
 # Archivos de datos (para que no se suban los .xlsx de la imagen)
 *.xlsx
 *.csv
